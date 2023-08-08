@@ -1,0 +1,9 @@
+{
+  "name": "Convertify",
+  "version": "1.0",
+  "description": "Convertify is a powerful Google Chrome extension designed to simplify currency conversions for users worldwide",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
